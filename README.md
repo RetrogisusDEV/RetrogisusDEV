@@ -38,5 +38,7 @@ return 0;
 ```
 -deverloper in { <HTMl> / .CSS / JS; }
 
-# follow me here 👇
+## follow me here 👇
 
+> YouTube: Retro Gisus TV
+> Discord: RetrogisusDEV#0300
