@@ -5,40 +5,14 @@
 
 # programmer in 🗯️
 -programmer in :: C++;
-```c++
-#include <iostream>
-
-using namespace std;
-
-void m1()
-{
-  cout << "Test completed" << "\n";
-}
-
-int main()
-{
-  int i;
-  
-  cout << "You have playing?" << "\n" << "1) Yes / 2) No" << "\n";
- 
-  cin >> i;
-  
-  switch (i)
-  {
-  case 1:
-  m1();
-  break;
-  
-  case 2:
-  return 1;
-  break;
-}
-
-return 0;
-```
 -deverloper in { <HTMl> / .CSS / JS; }
 
 ## follow me here 👇
 
 > YouTube: Retro Gisus TV
 > Discord: RetrogisusDEV#0300
+
+Stat :
+
+![stuff about me you didn't need to know](https://github-readme-stats.vercel.app/api?username=RetrogisusDEV&theme=merko&show_icons=true)
+![my most-used languages donno why python is here](https://github-readme-stats.vercel.app/api/top-langs/?username=RetrogisusDEV&langs_count=6&layout=compact&theme=merko)
