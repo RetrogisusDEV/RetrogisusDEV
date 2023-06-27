@@ -11,7 +11,6 @@
 
 ## follow me here 👇
 
-> YouTube: Retro Gisus TV
-> Discord: RetrogisusDEV#0300
+<img src="www.youtube.com">
 
 
