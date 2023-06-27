@@ -1,5 +1,5 @@
 # Hello guys 👋
-<h2 style="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>
+<h2>
 -i'm a programmer venezuelan, deverloper of games and app
 </h2>
 
