@@ -13,6 +13,6 @@
 
 ## follow me here 👇
 
-<h2 style="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>Youtube: Retrogisus TV </h2>
+<h2 styles="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>Youtube: Retrogisus TV </h2>
 
 
