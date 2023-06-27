@@ -1,7 +1,7 @@
 # Hello guys 👋
-<p style="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>
+<h2 style="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>
 -i'm a programmer venezuelan, deverloper of games and app
-</p>
+</h2>
 
 -I really like rhythm video games and rpg
 
@@ -13,6 +13,6 @@
 
 ## follow me here 👇
 
-<p style="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>Youtube: Retrogisus TV </p>
+<h2 style="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>Youtube: Retrogisus TV </h2>
 
 
