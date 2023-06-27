@@ -1,5 +1,7 @@
 # Hello guys 👋
+<p style="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>
 -i'm a programmer venezuelan, deverloper of games and app
+</p>
 
 -I really like rhythm video games and rpg
 
