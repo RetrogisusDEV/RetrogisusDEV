@@ -13,6 +13,5 @@
 
 ## follow me here 👇
 
-<h2 styles="font-size:10%; background-color: rgb(10, 10, 100); color: white; border-radius: 15px;>Youtube: Retrogisus TV </h2>
-
-
+<p>Youtube: Retrogisus TV</p>
+<p>Discord: `DEV`#0000</p>
