@@ -5,4 +5,4 @@
 
 ## Mi osu! Profile
 
-![osu! profile](https://media.discordapp.net/attachments/951478655006179438/1213711444349161552/profile_user_17.png?ex=65f677de&is=65e402de&hm=6e5b4e4031e0ea654faf3c1d9574612e738a09176a6a41c0e53be64a938d945d&)
+![osu! profile](https://media.discordapp.net/attachments/951478655006179438/1230564886522888322/profile_user_41.png?ex=6633c7db&is=662152db&hm=042968253489148fcf75003bcb75e9b3a47a5edf84215e4d6290a65c14570107&)
