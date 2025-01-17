@@ -1,17 +1,26 @@
 # Resumen de la cuenta
-Soy un joven entusiasta de la programación y la música, con una pasión por aprender y explorar nuevas tecnologías.
+Soy un Joven entusiasta de la tecnologia que intente ofrecer utilidades y herramientas para solucionar deficiencias que consigo en el camino.
 
-con conocimientos basicos en : 
-- c++
-- Java
-- Javascript / NodeJS
-- Android Reverse Engineering
-- GML (8.1)
+## Desarrollador y Programador en : 
+![Java](https://img.shields.io/badge/Java-JDK-red)
+![CPP](https://img.shields.io/badge/C++-11-yellow)
+![Javascript](https://img.shields.io/badge/Javascript-NodeJS-blue)
+![Android](https://img.shields.io/badge/android-Java-cyan)
+![Gamemaker](https://img.shields.io/badge/GameMaker-8.2-green)
 
-## sobre mi
-Soy un chico venezolano de 18 años (2024) y mido 1.78 cm. Me considero una persona altamente sociable, aunque a veces puedo ser un poco irritable
-que simpre intenta sacarle provecho a todo (incluso aunque ya no sirva en una mrd LOL)
+## Compositor y diseñador con : 
+![Paint](https://img.shields.io/badge/Painter-ibispaint-blue)
+![Music](https://img.shields.io/badge/Music-FLStudio-orange)
 
-### Estadísticas de la cuenta
-Inactivo en potencia :
+## Ranks en juegos online :
+![osu](https://img.shields.io/badge/osu!mania-retrogisus_65k-red)
+![rucoy](https://img.shields.io/badge/rucoy-retrogisus_lv_177-blue)
+![geometrydash](https://img.shields.io/badge/GeometryDash-retrogisus-yellow)
+
+## Sobre mi :
+Soy un venezolano nacido en (2006), con un caracter irritante pero sociable (me prefieren irritante XD), con alta facinacion hacia el Software y Firmware, sin tanto interes en el mundo del Hardware, que se la pasa haciendo Música.
+
+actualmente curso Ing. Informatica (2024-202x).
+
+# Estadísticas de la cuenta
 ![Mi estadisticas](https://github-readme-stats.vercel.app/api?username=RetrogisusDEV&theme=merko&show_icons=true)
