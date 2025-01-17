@@ -1,33 +1,43 @@
-# Resumen de la cuenta
-Soy un Joven entusiasta de la tecnologia que intente ofrecer utilidades y herramientas para solucionar deficiencias que consigo en el camino.
+# Resumen de la Cuenta
 
-## Sobre mi :
-Soy un venezolano nacido en (2006), con un caracter irritante pero sociable (me prefieren irritante XD), con alta facinacion hacia el Software y Firmware, sin tanto interes en el mundo del Hardware, que se la pasa haciendo Música.
+¡Hola! Soy un joven entusiasta de la tecnología, dedicado a ofrecer utilidades y herramientas que resuelvan las deficiencias que encuentro en mi camino.
 
-actualmente curso Ing. Informatica (2024-202x).
+## Sobre Mí
 
-# Estadísticas de la cuenta
-![Mi estadisticas](https://github-readme-stats.vercel.app/api?username=RetrogisusDEV&theme=merko&show_icons=true)
+Soy un venezolano nacido en 2006, con un carácter un tanto irritante pero sociable (¡me prefieren así, XD!). Tengo una gran fascinación por el software y firmware, aunque no tengo tanto interés en el mundo del hardware. Además, disfruto de hacer música en mi tiempo libre.
 
-## Desarrollador y Programador en : 
+Actualmente, estoy cursando Ingeniería Informática (2024-202x).
+
+# Estadísticas de la Cuenta
+
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=RetrogisusDEV&theme=merko&show_icons=true)
+
+## Habilidades de Desarrollo
+
+### Lenguajes de Programación
 ![Java](https://img.shields.io/badge/Java-JDK-red)
-![CPP](https://img.shields.io/badge/C++-11-yellow)
-![Javascript](https://img.shields.io/badge/Javascript-NodeJS-blue)
+![C++](https://img.shields.io/badge/C++-11-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-NodeJS-blue)
 ![Android](https://img.shields.io/badge/Android-Java-cyan)
-![Gamemaker](https://img.shields.io/badge/GameMaker-8.2-green)
+![GameMaker](https://img.shields.io/badge/GameMaker-8.2-green)
 
-## Compositor y diseñador con : 
-![Paint](https://img.shields.io/badge/Painter-Ibispaint-blue)
-![Music](https://img.shields.io/badge/Music-FLStudio-orange)
+### Composición y Diseño
+![IbisPaint](https://img.shields.io/badge/Painter-Ibispaint-blue)
+![FL Studio](https://img.shields.io/badge/Music-FLStudio-orange)
 
-## Ranks en juegos online :
-![osu](https://img.shields.io/badge/osu!mania-retrogisus_65k-red)
-![rucoy](https://img.shields.io/badge/rucoy-retrogisus_lv_177-blue)
-![geometrydash](https://img.shields.io/badge/GeometryDash-retrogisus-yellow)
+## Rango en Juegos Online
 
-## Equipo actual : 
+![osu!mania](https://img.shields.io/badge/osu!mania-retrogisus_65k-red)
+![Rucoy](https://img.shields.io/badge/rucoy-retrogisus_lv_177-blue)
+![Geometry Dash](https://img.shields.io/badge/GeometryDash-retrogisus-yellow)
 
-![type](https://img.shields.io/badge/Tipo-Laptop-red)
-![model](https://img.shields.io/badge/VIT-M2400_01-red)
-![ram](https://img.shields.io/badge/RAM_DDR2-400MHZ-red)
-![cpu](https://img.shields.io/badge/CPU-T6600-red)
+## Mi Equipo Actual
+
+![Tipo](https://img.shields.io/badge/Tipo-Laptop-red)
+![Modelo](https://img.shields.io/badge/VIT-M2400_01-red)
+![RAM](https://img.shields.io/badge/RAM_DDR2-400MHZ-red)
+![CPU](https://img.shields.io/badge/CPU-T6600-red)
+
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme.
