@@ -15,20 +15,17 @@ Actualmente, estoy cursando Ingeniería Informática (2024-202x).
 ## Habilidades de Desarrollo
 
 ### Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-JDK-red)
-![C++](https://img.shields.io/badge/C++-11-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-NodeJS-blue)
-![Android](https://img.shields.io/badge/Android-Java-cyan)
-![GameMaker](https://img.shields.io/badge/GameMaker-8.2-green)
-
-### Composición y Diseño
-![IbisPaint](https://img.shields.io/badge/Painter-Ibispaint-blue)
-![FL Studio](https://img.shields.io/badge/Music-FLStudio-orange)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ## Rango en Juegos Online
 
-![osu!mania](https://img.shields.io/badge/osu!mania-retrogisus_65k-red)
-![Rucoy](https://img.shields.io/badge/rucoy-retrogisus_lv_177-blue)
+![osu!mania](https://img.shields.io/badge/osu!mania-retrogisus_64k-red)
+![Rucoy](https://img.shields.io/badge/rucoy-retrogisus_lv_185-blue)
 ![Geometry Dash](https://img.shields.io/badge/GeometryDash-retrogisus-yellow)
 
 ## Mi Equipo Actual
