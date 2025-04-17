@@ -3,6 +3,12 @@
 <h1 align="center">Bienvenido a mi perfil.</h1>
 Soy un joven entusiasta de la tecnología, dedicado a ofrecer utilidades y herramientas que resuelvan las deficiencias que encuentro en mi camino.
 
+<div align="center">
+  
+  ![foreground](./foreground.gif)
+  
+</div>
+
 ###
 
 <div align="center">
