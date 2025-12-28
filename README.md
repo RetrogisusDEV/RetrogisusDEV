@@ -20,11 +20,12 @@ Soy un joven entusiasta de la tecnología y el scripting, dedicado a ofrecer uti
 ---
 
 Actual Setup :
-CPU : AMD Athlon II X2 245
-GPU : AMD R5 340X
-RAM : 2GB DDR2
-Motherboard: ECS 
-Case: IBM Thinkcentre A52
+
+- CPU: AMD Athlon II X2 245
+- GPU: AMD R5 340X
+- RAM: 2GB DDR2
+- Motherboard: ECS 
+- Case: IBM Thinkcentre A52
 
 ---
 
